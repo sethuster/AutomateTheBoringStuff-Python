@@ -4,3 +4,6 @@ This little repo is progress through the Automate the Boring Stuff in Python boo
 
 http://automatetheboringstuff.com/
 
+Work on your Regex with this game:
+
+http://play.inginf.units.it/#/
