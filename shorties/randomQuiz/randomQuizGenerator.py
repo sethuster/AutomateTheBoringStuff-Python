@@ -39,7 +39,7 @@ for quizNum in range(2):
   states = list(capitals.keys())
   random.shuffle(states)
 
-  # TODO: Loop through all 50 states, making a question for each
+  # Loop through all 50 states, making a question for each
   for questionNum in range(50):
     # select a correct answer by state name from the keys
     correctAnswer = capitals[states[questionNum]]
